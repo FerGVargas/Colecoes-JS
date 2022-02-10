@@ -1,2 +1,2 @@
-# Colecoes-JS
+# Coleções-JS
 Anotações do Curso Coleções-JS
